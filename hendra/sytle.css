@@ -1,0 +1,54 @@
+body{
+    background-color: skyblue;
+    color: #fff;
+}
+.navbar {
+    background: blue;
+    border-bottom: #333 3px solid;
+    opacity: 0.;
+}
+#selamat datang {
+    background: url(./gambar/lam.jpg);
+    min-height:  700px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#home-section {
+    background: url(./gambar/prolog.jpg);
+    min-height: 700px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#home-section .fa{
+    color: #008ed6;
+    background: #fff;
+    padding:  4px;
+    border-radius: 5px;
+    font-size: 30px;
+    
+}
+
+
+.dark-overlay {
+    background-color: rgba(0,0,0,0.2);
+    position:;
+    top:0;
+    left :0;
+    widht : 100%;
+    min-height: 700px;
+        
+}
+
+.home-inenr {
+    padding-top: 150px;
+}
+
+#exolore-section .fa {
+    color: #fff;
+    background-color: #333;
+    padding: 4px;
+    border-radius: 5px;
+    font-size: 23px;
+    
+}
